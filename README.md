@@ -1,0 +1,88 @@
+# SKRYU – One Shot
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Are you ready
+See you again さらば太陽
+小粋なステップで甲板に Ride on
+波を感じたら勝負に出ろ
+旅の武器は床上手なベロ
+街のギャングが動く頃
+千鳥足でジョーク飛ばすジャック・
+スパロウ
+すぐに乗り込め
+俺のブラックパイレーツ
+快楽止まらない
+スプラッシュマウンテン
+From 4THCoast 大航海
+皆の心盗み取る It's show time
+被害額はミリオネア大損害
+なのに俺を裁けない最高裁
+強い酒でも寄越さんかい
+なんせ今夜は俺たちの晩餐会
+This is Segawa が捌くBeats
+のフルコース
+突き出しから
+メインディッシュお待ちどう
+Get down 揺らしな遊覧船
+My mom & dad マジすんません
+もう今年はボーナスはありません
+だけど選んだんだ俺は数パーセント
+Get down 揺らしな遊覧船
+いつか街の号外に It's my face
+溜めて放つ 繰り返し Do the shit
+今だ Lock-on マイソウルの大砲
+(Life is One Shot)
+時間は足りてないぜメーン
+(One Shot)
+バカを考え生きるのさ
+Come on let's go 粋な連中
+(Life is One Shot)
+40秒で支度しな
+(One Shot)
+世界を股にかけるのさ
+Come on let's go 粋な連中
+河原で書いた歌詞が今 海へ
+進路は自分で選ぶしかないぜ
+気づいた奴から教室を出ろ
+理不尽な Teacher
+にはチョーク投げろ
+俺の首が欲しけりゃ
+仕事終わりの寝床でも襲って来いや
+But I am busy 実家の布団の中は
+残念ながら既にもぬけの殻
+バスドラ Girl で両手にフラワー
+キックスネアでひっぱたく Badass
+愛してやまない Hip hop sound で
+向かうのは絶景の NEVERLAND
+Don't worry 終わらないぜ俺の旅
+爆咲ダンスで On the いばら道
+タービン回す SK がサーフィン
+いっちょ開国さすぜ シマナミ
+Get down 揺らしな遊覧船
+My mom & dad マジすんません
+もう今年はボーナスはありません
+だけど選んだんだ
+俺は数パーセント
+Get down 揺らしな遊覧船
+いつか街の号外に It's my face
+貯めて放つ 繰り返し Do the shit
+今だ Lock-on マイソウルの大砲
+(Life is One Shot)
+時間は足りてないぜメーン
+(One Shot)
+バカを考え生きるのさ
+Come on let's go 粋な連中
+(Life is One Shot)
+40秒で支度しな
+(One Shot)
+世界を股にかけるのさ
+Come on let's go 粋な連中
+(Life is One Shot)
+(One Shot)
+Come on let's go 粋な連中
+(Life is One Shot)
+(One Shot)
+Come on let's go 粋な連中
+```
