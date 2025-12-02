@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "One Shot",
+  "base_artist": "SKRYU",
+  "createdAt": "2025-12-02T12:56:22.128914Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One Shot One Kill",
+      "artist": "Jon Connor feat. Snoop Dogg",
+      "has_synced": true,
+      "path": "select/01_One_Shot_One_Kill_Jon_Connor_feat._Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One Shot One Kill (feat. Snoop Dogg)",
+      "artist": "Jon Connor",
+      "has_synced": true,
+      "path": "select/02_One_Shot_One_Kill_(feat._Snoop_Dogg)_Jon_Connor.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Shot Away From Paradise",
+      "artist": "Golden Earring",
+      "has_synced": false,
+      "path": "select/03_One_Shot_Away_From_Paradise_Golden_Earring.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Shot 2 Shot",
+      "artist": "Eminem feat. D12",
+      "has_synced": true,
+      "path": "select/04_One_Shot_2_Shot_Eminem_feat._D12.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Shot 2 Shot (feat. D12)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/05_One_Shot_2_Shot_(feat._D12)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Shot at Glory",
+      "artist": "Judas Priest",
+      "has_synced": true,
+      "path": "select/06_One_Shot_at_Glory_Judas_Priest.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One Shot",
+      "artist": "Tin Machine",
+      "has_synced": false,
+      "path": "select/07_One_Shot_Tin_Machine.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Shot Juanita",
+      "artist": "Starflyer 59",
+      "has_synced": false,
+      "path": "select/08_One_Shot_Juanita_Starflyer_59.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It Just Might Be a One-shot Deal",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/09_It_Just_Might_Be_a_One-shot_Deal_Frank_Zappa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Shot At Love",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/10_One_Shot_At_Love_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One Shot at Love",
+      "artist": "L.L. Cool J",
+      "has_synced": true,
+      "path": "select/11_One_Shot_at_Love_L.L._Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One Shot",
+      "artist": "MIDNIGHT CVLT feat. Simon Beatz",
+      "has_synced": true,
+      "path": "select/12_One_Shot_MIDNIGHT_CVLT_feat._Simon_Beatz.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One Shot",
+      "artist": "Midnight CVLT",
+      "has_synced": true,
+      "path": "select/13_One_Shot_Midnight_CVLT.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "One Shot 2 Shot (Album Version (Explicit))",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/14_One_Shot_2_Shot_(Album_Version_(Explicit))_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "One Shot One Kill",
+      "artist": "Jon Connor",
+      "has_synced": true,
+      "path": "select/15_One_Shot_One_Kill_Jon_Connor.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "One Shot Away from Paradise (Live)",
+      "artist": "Golden Earring",
+      "has_synced": false,
+      "path": "select/16_One_Shot_Away_from_Paradise_(Live)_Golden_Earring.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One Shot",
+      "artist": "SKRYU",
+      "has_synced": false,
+      "path": "select/pl_01_One_Shot_SKRYU.txt"
+    }
+  ]
+}
